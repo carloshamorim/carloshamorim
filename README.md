@@ -88,7 +88,7 @@ At the moment, I'm concentrating on deepening and expanding my knowledge of tech
     <img width="310" height="200" src="https://github-readme-stats.vercel.app/api?username=carloshamorim&theme=panda&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats" align="center" />
   </a>
   <a href="https://github.com/carloshamorim" style="text-decoration: none !important;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrezzasouza&theme=panda&langs_count=5" align="center" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=carloshamorim&theme=panda&langs_count=5" align="center" />
   </a>
 </div>
 
