@@ -13,7 +13,7 @@ As for the backend, I delve into the complexities of servers and programming log
   <img align="center" title="Linux Mint" alt="Linux Mint" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/800px-Linux_Mint_logo_without_wordmark.svg.png" />&nbsp;
   <img align="center" title="PHP" alt="PHP" height="30" width="30" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" />&nbsp;
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />&nbsp;
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />&nbsp;
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" />&nbsp;
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" title="Typescript" alt="Typescript" height="30" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" title="NodeJs" alt="NodeJs" height="30" width="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
