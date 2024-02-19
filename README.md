@@ -11,7 +11,7 @@ As for the backend, I delve into the complexities of servers and programming log
 <div>
   <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
   <img align="center" title="Linux Mint" alt="Linux Mint" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/800px-Linux_Mint_logo_without_wordmark.svg.png" />&nbsp;
-  <img align="center" title="PHP" alt="PHP" height="30" width="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" title="PHP" alt="PHP" height="30" width="30" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" />
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
