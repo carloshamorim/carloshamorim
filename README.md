@@ -17,6 +17,8 @@ As for the backend, I delve into the complexities of servers and programming log
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" title="Typescript" alt="Typescript" height="30" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" title="NodeJs" alt="NodeJs" height="30" width="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+   <img align="center" title="C#" alt="C#" height="30" width="30" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2022/05/como-instalar-o-csharp-e-nosso-primeiro-exemplo.png" />&nbsp;
+    <img align="center" title="Java" alt="Java" height="30" width="30" src="https://blog.geekhunter.com.br/wp-content/uploads/2018/04/java-860x418.png" />&nbsp;
   <img align="center" title="GitHub" alt="GitHub" height="30" width="40" src="https://gist.githubusercontent.com/andrezzasouza/a5a0d2445c4c5015ffbb0704f87a7c34/raw/8153b4f391c3513f6bca21727980d3a1f5a197f0/github-grey.svg" />
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img align="center" title="npm" alt="npm" height="30" width="30" src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" />&nbsp;
@@ -26,8 +28,7 @@ As for the backend, I delve into the complexities of servers and programming log
   <img align="center" title="Express.js" alt="Express.js" height="40" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />&nbsp;&nbsp;
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" title="Java" alt="Java" height="30" width="30" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Java.component.complex-narrative-xl.ts=1692898828339.png/content/adobe-cms/br/pt/products/instana/supported-technologies/java-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" />&nbsp;
-  <img align="center" title="C#" alt="C#" height="30" width="30" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />&nbsp;
+
 
 
   <br />
