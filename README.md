@@ -27,7 +27,7 @@ As for the backend, I delve into the complexities of servers and programming log
    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" title="Java" alt="Java" height="30" width="30" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Java.component.complex-narrative-xl.ts=1692898828339.png/content/adobe-cms/br/pt/products/instana/supported-technologies/java-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" />&nbsp;
   <img align="center" title="C#" alt="C#" height="30" width="30" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />&nbsp;
-  <img align="center" title="NodeJs" alt="NodeJs" height="30" width="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+  <img align="center" title="NodeJs" alt="NodeJs" height="30" width="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 
   <br />
   <br />
