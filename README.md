@@ -43,7 +43,7 @@ As for the backend, I delve into the complexities of servers and programming log
   <a href="mailto:carloshamorim457@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/carlosamoriem/](https://www.instagram.com/eusoucarlosamorim/)">
+  <a href="https://www.instagram.com/carlosamoriem/](https://www.instagram.com/eusoucarlosamorim/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br />
